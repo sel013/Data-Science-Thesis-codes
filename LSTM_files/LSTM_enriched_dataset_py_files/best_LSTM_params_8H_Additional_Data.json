@@ -1,0 +1,8 @@
+{
+    "n_layers": 2,
+    "n_units": 111,
+    "learning_rate": 0.003700015953385794,
+    "batch_size": 128,
+    "dropout_rate": 0.005982378944619442,
+    "recurrent_dropout": 0.08618361256136248
+}
